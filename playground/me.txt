@@ -1,5 +1,0 @@
-{{#user}
-Name: Farjana Jahan Sathi
-Skills: HTML, CSS, JS, Next.js
-Email: farjanajhn12@gmail.com
-{{/user}}
